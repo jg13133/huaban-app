@@ -1,0 +1,31 @@
+{
+  "name": "xiangmu-2-1",
+  "version": "1.0.0",
+  "description": "这是一个滑板官网",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jg13133/huaban-app.git"
+  },
+  "keywords": [
+    "滑板"
+  ],
+  "author": "你老板",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jg13133/huaban-app/issues"
+  },
+  "homepage": "https://github.com/jg13133/huaban-app#readme"
+}
